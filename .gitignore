@@ -5,13 +5,3 @@ dist/*
 .editorconfig
 .env
 .ufbt
-.vscode/
-.ufbt/
-dist/
-build/
-*.fap
-*.elf
-*.map
-*.o
-*.d
-*.log
