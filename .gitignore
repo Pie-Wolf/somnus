@@ -1,0 +1,17 @@
+dist/*
+.vscode
+.clang-format
+.clangd
+.editorconfig
+.env
+.ufbt
+.vscode/
+.ufbt/
+dist/
+build/
+*.fap
+*.elf
+*.map
+*.o
+*.d
+*.log
